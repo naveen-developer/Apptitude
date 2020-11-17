@@ -1,0 +1,4352 @@
+
+{
+   "currency":"INR",
+   "published":true,
+   "ordering":"chronological",
+   "pluginId":"1591341374388.3635",
+   "itemId":"1591342863060.7478",
+   "longDescription":"<p></p>",
+   "name":"APTITUDE UNLIMITED ( 60 hrs / 225+ Videos )",
+   "audience":false,
+   "weight":1,
+   "imageUrl":"https://cdn.socionity.com/1591906727753.0356-03a22a0bc964bb710f02aca2f8b416fd.png",
+   "publishTime":"2020-06-05T07:41:03.060Z",
+   "priceList":[
+      {
+         "payAsYouWish":false,
+         "price":"799",
+         "description":"3 Months Access",
+         "days":"90",
+         "currency":"INR",
+         "tip":true,
+         "subscriptionId":"subscription-price-1591344663161.04",
+         "strikePrice":"2599",
+         "offerEnd":"2020-11-19T23:59"
+      },
+      {
+         "payAsYouWish":false,
+         "price":"899",
+         "description":"6 Months Access",
+         "days":"180",
+         "currency":"INR",
+         "tip":true,
+         "subscriptionId":"subscription-price-1591344679580.064",
+         "strikePrice":"2999",
+         "offerEnd":"2020-11-18T23:59"
+      },
+      {
+         "payAsYouWish":false,
+         "price":"999",
+         "description":"One Year Access",
+         "days":"365",
+         "currency":"INR",
+         "tip":true,
+         "subscriptionId":"subscription-price-1591344693113.2744",
+         "strikePrice":"3599",
+         "offerEnd":"2020-11-18T23:59"
+      }
+   ],
+   "description":"This Course is a collection of 200+ Aptitude Videos (All Topics in Quant & Reasoning) taught by Crisna Chaitanya Reddy & Vamsee Krishna Reddy. These videos cover all topics in aptitude which helps every aspirant to clear Aptitude section in CRT, Bank Exams, SSC, CAT, I-CET, GRE, GATE, RRB, SI/CONSTABLE, VRO/VRA, and many more private and public sector recruitments.",
+   "price":0,
+   "tags":[
+      
+   ],
+   "validity":0,
+   "type":"bundle",
+   "contents":[
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 1 ( 12 Mins ) : Aptitude Introduction",
+         "opens":105359,
+         "free":true,
+         "publishTime":"2020-11-04T06:53:18.839Z",
+         "contentId":"1591381770423.1812",
+         "fileUrl":"https://cdn.socionity.com/cris/output1.mp4",
+         "description":"FREE VIDEO by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591889716450.6912-d3a5bba0e3e1d8b37bdab6d53fccbc90.jpeg",
+         "position":0,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 2 ( 12 Mins ) : How is Aptitude different from Mathematics ? Simple Example",
+         "opens":43347,
+         "free":true,
+         "publishTime":"2020-06-25T05:57:01.621Z",
+         "contentId":"1591382106028.3867",
+         "fileUrl":"https://cdn.socionity.com/cris/output2.mp4",
+         "description":"FEEE VIDEO by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591889636015.5603-8315d888172b8fb3123f020b3713b07e.jpeg",
+         "position":1,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 3A ( 16 Mins ) : Difference between Aptitude & Mathematics ( Difficult Example )",
+         "opens":33138,
+         "free":true,
+         "publishTime":"2020-06-25T05:55:55.078Z",
+         "contentId":"1591382835873.9404",
+         "fileUrl":"https://cdn.socionity.com/cris/output3.mp4",
+         "description":"FREE VIDEO by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1593063377242.0208-00d2dbf7660c2b3f8e6bf315edfffa2f.jpeg",
+         "position":2,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 3B (21 Mins) : Know Why Aptitude is Very Easy : AVERAGES",
+         "opens":33809,
+         "free":true,
+         "publishTime":"2020-06-25T06:14:00.586Z",
+         "contentId":"1593063131497.0437",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593065036403.0647-ad405a53960afd3d097c82f131557467optimized.mp4",
+         "description":"FREE VIDEO by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1593063328199.2944-53137a5d45b732ee24ea3f8cf2d02de7.jpeg",
+         "position":3,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 4 ( 10 Mins ) : Multiplications of Numbers close to 100",
+         "opens":27393,
+         "free":false,
+         "publishTime":"2020-06-11T15:41:33.374Z",
+         "contentId":"1591383089196.2734",
+         "fileUrl":"https://cdn.socionity.com/cris/output4.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591890091244.1816-916765b8f1b9eb6507cc0594aebf40e6.jpeg",
+         "position":4,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 5 ( 7 Mins ) : Multiplications of Numbers Close to Multiples of 100",
+         "opens":16743,
+         "free":false,
+         "publishTime":"2020-06-11T15:41:51.376Z",
+         "contentId":"1591384992002.0842",
+         "fileUrl":"https://cdn.socionity.com/cris/output5.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591890109544.656-a47dac9e2569721e172c62f5cc929025.jpeg",
+         "position":5,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 6 ( 11 Mins ) : Squares upto 250 without using pen & paper",
+         "opens":18806,
+         "free":false,
+         "publishTime":"2020-06-11T15:42:11.461Z",
+         "contentId":"1591386177416.254",
+         "fileUrl":"https://cdn.socionity.com/cris/output6.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591890127260.0237-2e25a13f4af57987fe980bb97a1cd52e.jpeg",
+         "position":6,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 7 ( 13 Mins ) : Cube roots and Square roots without using pen & paper.",
+         "opens":14733,
+         "free":false,
+         "publishTime":"2020-06-11T15:43:14.127Z",
+         "contentId":"1591386490002.5986",
+         "fileUrl":"https://cdn.socionity.com/cris/output7.mp4",
+         "description":"by Crisna Chaitanya Reddy.",
+         "thumbnail":"https://cdn.socionity.com/1591890188625.0325-6e0bb5fea1f050ae6adb7dd946fbcc56.jpeg",
+         "position":7,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 8 ( 4 Mins ) : Tables up to 20 without using pen and paper.",
+         "opens":12883,
+         "free":false,
+         "publishTime":"2020-06-11T15:43:34.459Z",
+         "contentId":"1591386646210.229",
+         "fileUrl":"https://cdn.socionity.com/cris/output8.mp4",
+         "description":" by Crisna Chaitanya Reddy.",
+         "thumbnail":"https://cdn.socionity.com/1591890212437.928-d2069e413d0d07a0356f6dc41504fea1.jpeg",
+         "position":8,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 9 ( 11 Mins ) : Unit’s place identification of a to the power of b.",
+         "opens":12325,
+         "free":false,
+         "publishTime":"2020-06-11T15:44:02.929Z",
+         "contentId":"1591386870007.0525",
+         "fileUrl":"https://cdn.socionity.com/cris/output9.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591890229801.1438-7a2c9f021b289ef6dcf71c3ce8e765d1.jpeg",
+         "position":9,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 10 ( 30 Mins ) : Introduction to percentages and Fractions",
+         "opens":23646,
+         "free":false,
+         "publishTime":"2020-06-11T15:40:05.601Z",
+         "contentId":"1591387105376.0303",
+         "fileUrl":"https://cdn.socionity.com/cris/output10.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591890000820.1638-5f9c5ac8babeb29d00aa78c3e5c88f1d.jpeg",
+         "position":10,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 11 ( 24 Mins ) : Percentages - Part 1",
+         "opens":21801,
+         "free":false,
+         "publishTime":"2020-06-18T18:18:11.771Z",
+         "contentId":"1591387500532.0247",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592503525625.8018-8722db92ff8bc27637db1daa66a8ee72optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591890265542.7412-751cd0fda328e2d51e05c0709a46b852.jpeg",
+         "position":11,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 12 ( 10 Mins ) : Percentages - Part 2",
+         "opens":15037,
+         "free":false,
+         "publishTime":"2020-07-05T10:29:57.938Z",
+         "contentId":"1591387596771.187",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593944781546.601-b7fd17d467a58552ef7584b3197d06c2optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591892045011.2231-1a16620b893a36c2db540e83312662bb.jpeg",
+         "position":12,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 13 ( 13 Mins ) : Percentages - Part 3",
+         "opens":16019,
+         "free":false,
+         "publishTime":"2020-06-11T16:14:40.269Z",
+         "contentId":"1591387735424.1672",
+         "fileUrl":"https://cdn.socionity.com/cris/output13.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591892077822.767-6aedb8d28aa5d801519145adab72e5d6.jpeg",
+         "position":13,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"Video 14 ( 13 Mins ) : Percentages - Part 4",
+         "opens":14647,
+         "free":false,
+         "publishTime":"2020-06-11T19:33:02.187Z",
+         "contentId":"1591387816137.3557",
+         "fileUrl":"https://cdn.socionity.com/cris/output14.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591903975704.375-f8a3cad1117972130f3392dfe57f7feb.jpeg",
+         "position":14,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 15 ( 13 MINS ) : PERCENTAGES - PART 5",
+         "opens":13101,
+         "free":false,
+         "publishTime":"2020-06-11T19:33:58.892Z",
+         "contentId":"1591876824216.7305",
+         "fileUrl":"https://cdn.socionity.com/cris/output15.mp4",
+         "description":"by Vamsee Krishna Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591904032838.253-bb74b5c874f2b3022c726d57cafa1b61.jpeg",
+         "position":15,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 16 ( 9 MINS ) : PERCENTAGES - PART 6",
+         "opens":12595,
+         "free":false,
+         "publishTime":"2020-06-24T16:46:50.442Z",
+         "contentId":"1591876931801.1392",
+         "fileUrl":"https://cdn.socionity.com/cris/output16.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591904070196.329-75afee6436e086615f2db3bc527c6df4.jpeg",
+         "position":16,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 17 ( 12 MINS ) : PERCENTAGES - PART 7",
+         "opens":10732,
+         "free":false,
+         "publishTime":"2020-06-11T19:35:12.502Z",
+         "contentId":"1591877013191.014",
+         "fileUrl":"https://cdn.socionity.com/cris/output17.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591904104536.0212-20f2df1d4f27e2f75ffdf7197e921e49.jpeg",
+         "position":17,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 18 ( 5 MINS ) : PERCENTAGES - PART 8",
+         "opens":9679,
+         "free":false,
+         "publishTime":"2020-06-11T19:37:09.237Z",
+         "contentId":"1591877102708.439",
+         "fileUrl":"https://cdn.socionity.com/cris/output18.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591904223225.6917-8572d4c60acd3353c364dadc218aa981.jpeg",
+         "position":18,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 19 ( 5 MINS ) : PERCENTAGES - PART 9",
+         "opens":8436,
+         "free":false,
+         "publishTime":"2020-06-11T19:37:40.269Z",
+         "contentId":"1591877139446.6968",
+         "fileUrl":"https://cdn.socionity.com/cris/output19.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591904253817.9268-960a117383a6f9701fbdff4271f332c6.jpeg",
+         "position":19,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 20 ( 5 MINS ) : PERCENTAGES - PART 10",
+         "opens":8823,
+         "free":false,
+         "publishTime":"2020-06-11T19:38:11.028Z",
+         "contentId":"1591877186652.5947",
+         "fileUrl":"https://cdn.socionity.com/cris/output20.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591904285211.9695-d9051d8d8f28a86fc94843b5585bf42b.jpeg",
+         "position":20,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 21 ( 18 Mins ) : PROFIT & LOSS - INTRODUCTION",
+         "opens":13481,
+         "free":false,
+         "publishTime":"2020-06-18T12:08:59.839Z",
+         "contentId":"1591878409033.0388",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592481138819.126-2d129efc12d82101c2658cbc402426d0optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591904316165.557-9f8131f93d79fb4b413d31d5f773e5ad.jpeg",
+         "position":21,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 22 ( 10 Mins ) : PROFIT & LOSS - PART 1 ",
+         "opens":10619,
+         "free":false,
+         "publishTime":"2020-06-18T12:21:07.557Z",
+         "contentId":"1591947699307.3865",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592482612344.8894-8413d30865b39ba164e1fd5c2e3095a1optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591947728370.0269-c55b6d8d3ec1ed6c20e44cf1ded707d9.jpeg",
+         "position":22,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 23 ( 15 Mins ) : PROFIT & LOSS - PART 2",
+         "opens":9367,
+         "free":false,
+         "publishTime":"2020-06-18T12:46:57.329Z",
+         "contentId":"1591947803683.4883",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592483506713.538-4cfaf585cbbac25a1e1380dbccf6a51aoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591947827554.042-31a5e54c3d030012dca1a4aa3c8448d5.jpeg",
+         "position":23,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 24 ( 11 Mins ) : PROFIT & LOSS - PART 3",
+         "opens":9172,
+         "free":false,
+         "publishTime":"2020-06-18T12:56:16.037Z",
+         "contentId":"1591947885835.2236",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592484661583.0781-08087318d6231765f7210280fbcbc544optimized.mp4",
+         "description":"by Vamsee Krishna Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591947949851.4954-d0ef0bcbf8e03f09475a7bb59fb91f08.jpeg",
+         "position":24,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 25 ( 15 Mins ) : PROFIT & LOSS - PART 4",
+         "opens":8852,
+         "free":false,
+         "publishTime":"2020-06-18T13:19:18.166Z",
+         "contentId":"1591948018895.3894",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592485972808.7883-73fb85cb9cc02fe0d221a78eb8531819optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591948041540.235-d5857635653e12683575adcb683ecfd9.jpeg",
+         "position":25,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 26 ( 6 Mins ) : PROFIT & LOSS - PART 5",
+         "opens":7027,
+         "free":false,
+         "publishTime":"2020-06-18T13:53:22.222Z",
+         "contentId":"1591948101627.123",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592486549380.7832-e2fd4185022b6ad9c31226aeebb9810eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591948165512.0918-38960c614806d5c4d93214dadf4c97c2.jpeg",
+         "position":26,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 27 ( 7 Mins ) : PROFIT & LOSS - PART 6",
+         "opens":7194,
+         "free":false,
+         "publishTime":"2020-07-05T10:34:43.020Z",
+         "contentId":"1591948261814.7344",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593945180682.8562-3eef51d52671a23c5ac50ffe59a02ef9optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591948299633.509-312e3077edd5cc957a4dcfe5af79c19e.jpeg",
+         "position":27,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 28 ( 6 Mins ) : PROFIT & LOSS - PART 7",
+         "opens":7102,
+         "free":false,
+         "publishTime":"2020-06-18T15:18:51.049Z",
+         "contentId":"1591948342684.9",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592492484246.404-02084516b0d65ae7a98b2369de0792c5optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591948365366.747-2563135ce00b81dea54b4f38361c7548.jpeg",
+         "position":28,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 29 ( 22 Mins ) : PROFIT & LOSS - PART 8",
+         "opens":9762,
+         "free":false,
+         "publishTime":"2020-07-09T07:00:50.141Z",
+         "contentId":"1591948407398.0479",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594277529349.4-e6870515c0f3627f21cd5d2fdf08b1c1optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591948432272.9087-7183fb9c96b3f4c60e72dfd3c2488ec0.jpeg",
+         "position":29,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 30 ( 18 Mins ) : PROFIT & LOSS - PART 9",
+         "opens":8052,
+         "free":false,
+         "publishTime":"2020-06-18T17:53:20.361Z",
+         "contentId":"1591948472494.531",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592502327489.1758-69c43c48174932504fcff4d1c506902eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591948500252.6345-cd8a1ce9bdf1df86a5c09cbbb11f060a.jpeg",
+         "position":30,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 31 ( 9 Mins ) : PROFIT & LOSS - PART 10",
+         "opens":6601,
+         "free":false,
+         "publishTime":"2020-06-18T18:02:27.962Z",
+         "contentId":"1591948548576.3066",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592503057130.1836-b8db8784d226fda313994a71cb894376optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591948585161.3335-47f33ead2e2dd4ac33db80600f07475e.jpeg",
+         "position":31,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 32 ( 7 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - INTRODUCTION",
+         "opens":7911,
+         "free":false,
+         "publishTime":"2020-06-19T19:12:21.887Z",
+         "contentId":"1591948619037.334",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592593814593.2249-06804b7364c90c07b38e92f377e74c07optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591948646227.0017-35674d977c0377084a5c588c0965963b.jpeg",
+         "position":32,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 33 ( 18 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - PART 1",
+         "opens":8145,
+         "free":false,
+         "publishTime":"2020-06-19T19:20:38.582Z",
+         "contentId":"1591948709180.4148",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592594182501.0532-2a78d91f04d6388ef3b0a660868aa83boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591948735416.8997-0091df2d2e2ec37c3ce2b1302346eed7.jpeg",
+         "position":33,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 34 ( 17 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - PART 2",
+         "opens":7059,
+         "free":false,
+         "publishTime":"2020-06-19T20:18:00.991Z",
+         "contentId":"1591948846322.0662",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592597619824.047-e21e42ec93a76a9a85453b4263ada28aoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591948868087.7456-1b3e2614838f525883b549d8682ce0f3.jpeg",
+         "position":34,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 35 ( 8 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - PART 3",
+         "opens":6515,
+         "free":false,
+         "publishTime":"2020-06-21T15:30:44.726Z",
+         "contentId":"1591948921614.334",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592753243147.7498-6b11ed65028a663446859b2fa7c1aafeoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591949140942.8323-f8731beb91e2cdd8385a94b3887cf71a.jpeg",
+         "position":35,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 36 ( 7 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - PART 4",
+         "opens":6324,
+         "free":false,
+         "publishTime":"2020-06-21T15:36:59.468Z",
+         "contentId":"1591948971441.5674",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592753630364.167-7f36081f5b41fd9f75470f16801bd767optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591949170493.4705-fe7dcc8ceccccfb79ebde48a01f34264.jpeg",
+         "position":36,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 37 ( 11 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - PART 5",
+         "opens":5932,
+         "free":false,
+         "publishTime":"2020-06-21T15:44:40.191Z",
+         "contentId":"1591949037813.912",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592753950436.487-f3929243952bcff16e0fb7ffc94098a8optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591949228748.6218-2dc194446272d5b4b24de5696113cb6e.jpeg",
+         "position":37,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 38 ( 16 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - PART 6",
+         "opens":6161,
+         "free":false,
+         "publishTime":"2020-06-21T19:36:10.387Z",
+         "contentId":"1591949116463.509",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592762453297.3584-9ff5be7674167ed530f5a5f487d87dc7optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591949257776.106-76815c6f82c9ffdacbfd8667e8df3fa7.jpeg",
+         "position":38,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 39 ( 17 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - PART 7",
+         "opens":6260,
+         "free":false,
+         "publishTime":"2020-06-21T19:44:52.155Z",
+         "contentId":"1591949637358.1482",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592768413625.9087-dfe1baf36295178cca571e2e40c00889optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591949961070.1267-0cadad3c6a056a6028011f4228fd57dd.jpeg",
+         "position":39,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 40 ( 19 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - PART 8",
+         "opens":6606,
+         "free":false,
+         "publishTime":"2020-06-21T19:59:18.979Z",
+         "contentId":"1591949697196.871",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592769251339.683-653b0dd282f95815c56df643f777d8e5optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591949992105.1458-0d45ef4fad902c118cc2a030b22c48a8.jpeg",
+         "position":40,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 41 ( 12 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - PART 9",
+         "opens":5320,
+         "free":false,
+         "publishTime":"2020-06-22T11:40:16.053Z",
+         "contentId":"1591949743692.8997",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592825797748.443-30c46ecb8dcee148ffa540c7b534991aoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591950018613.0295-75ed55bb4da821c88e2a0202e2db5cf5.jpeg",
+         "position":41,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 42 ( 16 Mins ) : SIMPLE INTEREST & COMPOUND INTEREST - PART 10",
+         "opens":5198,
+         "free":false,
+         "publishTime":"2020-06-22T11:48:34.074Z",
+         "contentId":"1591949774669.8286",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1592826223660.7847-e1bc478eab56e57ab82827a8c9b3737boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591950048081.6904-cf009abda87ad0769a6bb8179898d2d0.jpeg",
+         "position":42,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 43 ( 21 Mins ) : AVERAGES - INTRODUCTION",
+         "opens":7145,
+         "free":false,
+         "publishTime":"2020-06-25T03:30:25.525Z",
+         "contentId":"1591949818010.8162",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593055462165.082-9b128c49406dee364d6ee562a6f1f341optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591950082222.8562-7b59b0cdb2f0201802150c9552340098.jpeg",
+         "position":43,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 44 ( 17 Mins ) : AVERAGES - PART 1",
+         "opens":6999,
+         "free":false,
+         "publishTime":"2020-06-25T10:22:36.494Z",
+         "contentId":"1591949908564.3633",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593080220146.3984-895ee42812678fda82938f61799e45d4optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591950107408.6543-572426683990f019da6bef1b66bae87a.jpeg",
+         "position":44,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 45 ( 24 Mins ) : AVERAGES - PART 2",
+         "opens":6559,
+         "free":false,
+         "publishTime":"2020-06-26T05:37:01.863Z",
+         "contentId":"1591951773593.767",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593149481443.96-752c320b5c2779954981e5b2632c5d5boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591952289249.6343-9683ad66e282ae75d56e1270498a8739.jpeg",
+         "position":45,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 46 ( 10 Mins ) : AVERAGES - PART 3",
+         "opens":5357,
+         "free":false,
+         "publishTime":"2020-06-26T08:17:31.094Z",
+         "contentId":"1591951817170.5378",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593159230454.1047-92b063aa940e0872094acdc1bf96dee7optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591952315775.8813-bb26dc1c90337e4edc076d3592ef0417.jpeg",
+         "position":46,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 47 ( 17 Mins ) : AVERAGES - PART 4",
+         "opens":5400,
+         "free":false,
+         "publishTime":"2020-06-26T10:52:19.007Z",
+         "contentId":"1591951863416.9624",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593168441364.9475-bfc3ed406ff41517a583ed3fa2352530optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591952343641.7976-ce639a7dc12b0e24843d18d3040d8466.jpeg",
+         "position":47,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 48 ( 13 Mins ) : AVERAGES - PART 5",
+         "opens":5499,
+         "free":false,
+         "publishTime":"2020-06-26T17:36:38.574Z",
+         "contentId":"1591951903907.5557",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593192759482.0137-828c109d45488e73e7d6ac3f44155037optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591952388342.6897-037cfd2e770b3c017078e7bf8837e79f.jpeg",
+         "position":48,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 49 ( 8 Mins ) : AVERAGES - PART 6",
+         "opens":4720,
+         "free":false,
+         "publishTime":"2020-06-27T05:54:56.286Z",
+         "contentId":"1591952087325.3052",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593237100072.1965-9eafa980b2668fc52e03311fcf346230optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591952412440.7102-bece809801e61eb0b75e6f42ab08313d.jpeg",
+         "position":49,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 50 ( 15 Mins ) : AVERAGES - PART 7",
+         "opens":5082,
+         "free":false,
+         "publishTime":"2020-06-27T07:54:47.434Z",
+         "contentId":"1591952138524.1973",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593244188282.8132-05a73e168dad6a39e83d74df6bd22d61optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591952437962.6099-eb462e7895ea0433712830878c84460d.jpeg",
+         "position":50,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 51 ( 9 Mins ) : AVERAGES - PART 8",
+         "opens":4293,
+         "free":false,
+         "publishTime":"2020-06-27T09:22:35.022Z",
+         "contentId":"1591952180871.7795",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593249540331.8047-9501967db599ccdc957f39740fa04e7aoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591952471539.2869-3f44722af108868dd0a08ba02bd90b5b.jpeg",
+         "position":51,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 52 ( 10 Mins ) : AVERAGES - PART 9",
+         "opens":4281,
+         "free":false,
+         "publishTime":"2020-06-27T11:36:25.790Z",
+         "contentId":"1591952223223.1196",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593257609560.0566-35d7846714accfa77ebef12ffa2d788coptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591952495870.2603-806d3626b3e19ffb707196e12e9372ab.jpeg",
+         "position":52,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 53 ( 11 Mins ) : AVERAGES - PART 10",
+         "opens":4555,
+         "free":false,
+         "publishTime":"2020-06-27T13:14:12.181Z",
+         "contentId":"1591952259764.9468",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593263476336.8591-92b0f8498396ab137d2ae0957d6b219boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591952526474.3342-435b69289020e01f5d1a6083f006fcc5.jpeg",
+         "position":53,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 54 ( 14 Mins ) : AGES - INTRODUCTION ",
+         "opens":5886,
+         "free":false,
+         "publishTime":"2020-07-01T18:16:53.930Z",
+         "contentId":"1591952954036.9065",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593627036094.7183-d56b0e3f6e5555baf3e9034d1f18efa7optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953463048.7935-af72f7934c458b8bc600198e23fcffc0.jpeg",
+         "position":54,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 55 ( 13 Mins ) : AGES - PART 1",
+         "opens":5612,
+         "free":false,
+         "publishTime":"2020-07-01T18:30:52.708Z",
+         "contentId":"1591953028682.6187",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593627847523.0557-e29c23ba6662136196ded320b4d127a7optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953492897.1338-e61e3418bcdc8d5258bd4538c0cd3a3d.jpeg",
+         "position":55,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 56 ( 13 Mins ) : AGES - PART 2",
+         "opens":5345,
+         "free":false,
+         "publishTime":"2020-07-01T18:39:56.077Z",
+         "contentId":"1591953073506.8035",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593628546118.033-a98519e20c465438b908b30b60e76ebdoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953516769.9028-5748c5ea34517e127b407ec46952f076.jpeg",
+         "position":56,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 57 ( 5 Mins ) : AGES - PART 3",
+         "opens":4411,
+         "free":false,
+         "publishTime":"2020-07-01T18:43:37.195Z",
+         "contentId":"1591953125311.0657",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593628900213.3694-46e682129b5dade3c2c300568f0ebe95optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953541372.4902-369a4e3f1a083b6124791adbafcfa87c.jpeg",
+         "position":57,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 58 ( 12 Mins ) : AGES - PART 4",
+         "opens":4462,
+         "free":false,
+         "publishTime":"2020-07-01T18:51:40.423Z",
+         "contentId":"1591953171162.0994",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593629233561.286-1da6354e64ec0b5a576685e7c06b17cboptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953571736.515-14e4300949e95dd690e7f76880316278.jpeg",
+         "position":58,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 59 ( 8 Mins ) : AGES - PART 5",
+         "opens":3967,
+         "free":false,
+         "publishTime":"2020-07-02T14:22:43.489Z",
+         "contentId":"1591953215983.5032",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593699585527.0806-fe98648ba98b64fd626a0d9df93f8f04optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953616944.5317-2a5b145e6fb53b248fb17ec97b23c037.jpeg",
+         "position":59,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 60 ( 9 Mins ) : AGES - PART 6",
+         "opens":4076,
+         "free":false,
+         "publishTime":"2020-07-02T14:30:39.449Z",
+         "contentId":"1591953257330.5347",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593699950351.9614-ded0481d372b37bd8e6caf0f65aedc32optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953643914.3687-5fc0aa1dbff6a8e1017773ec088798f0.jpeg",
+         "position":60,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 61 ( 7 Mins ) : AGES - PART 7",
+         "opens":3879,
+         "free":false,
+         "publishTime":"2020-07-02T14:34:58.586Z",
+         "contentId":"1591953299369.7869",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593700337175.0884-54f06122567cc14edcd938779a7aed7coptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953671778.764-85b962fc3904a6a46ed6d6a11789b2a4.jpeg",
+         "position":61,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 62 ( 4 Mins ) : AGES - PART 8",
+         "opens":3175,
+         "free":false,
+         "publishTime":"2020-07-02T14:38:28.890Z",
+         "contentId":"1591953340873.3928",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593700593609.28-dca6e74b444df8b0abbbdee32a6f5b90optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953701487.2817-4d5a4bffc7616f2e2f8f5399154a61c1.jpeg",
+         "position":62,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 63 ( 5 Mins ) : AGES - PART 9",
+         "opens":3253,
+         "free":false,
+         "publishTime":"2020-07-02T14:43:21.619Z",
+         "contentId":"1591953380857.3801",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593700850302.389-a6b55067528f816f06a0438abe0720dboptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953730865.6956-7845e4110aa3fbbfedab7e7b04d14848.jpeg",
+         "position":63,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 64 ( 7 Mins ) : AGES - PART 10",
+         "opens":3531,
+         "free":false,
+         "publishTime":"2020-07-02T14:47:18.806Z",
+         "contentId":"1591953437342.3682",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1593701102985.7214-2c97661c5a8364da653202e1410fdb25optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591953759598.03-5f55a155284ef7c6b0f8076a054032a0.jpeg",
+         "position":64,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 65 ( 11 Mins ) : ALLIGATIONS & MIXTURES - INTRODUCTION",
+         "opens":4954,
+         "free":false,
+         "publishTime":"2020-07-06T18:08:15.836Z",
+         "contentId":"1591954015672.7905",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594058630895.4258-2a496bde8d3b3e62050b0fbc1c1c82f4optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955107723.5896-496154c2697ca455c1079ca183c78f9f.jpeg",
+         "position":65,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 66 ( 14 Mins ) : ALLIGATIONS & MIXTURES - PART 1",
+         "opens":4080,
+         "free":false,
+         "publishTime":"2020-07-06T18:17:58.601Z",
+         "contentId":"1591954112071.3276",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594059099216.8152-1e94cea3fb24d291e999c616ceb88efeoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955138683.5815-1aa2b88f84feca94932fab01d3d34926.jpeg",
+         "position":66,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 67 ( 14 Mins ) : ALLIGATIONS & MIXTURES - PART 2",
+         "opens":4167,
+         "free":false,
+         "publishTime":"2020-07-06T18:25:59.571Z",
+         "contentId":"1591954230706.6506",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594059663760.9749-cb96efc589949916cb9da77e8811a838optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955167514.0247-d096c10452f948a85f21505aa9cb0468.jpeg",
+         "position":67,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 68 ( 11 Mins ) : ALLIGATIONS & MIXTURES - PART 3",
+         "opens":3726,
+         "free":false,
+         "publishTime":"2020-07-06T18:58:07.641Z",
+         "contentId":"1591954297057.7805",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594060267982.6873-d6fd7020e8e8c626e00c242cad7574faoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955199741.3801-b22cd1165382a115d6baad531834f42f.jpeg",
+         "position":68,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 69 ( 11 Mins ) : ALLIGATIONS & MIXTURES - PART 4",
+         "opens":3686,
+         "free":false,
+         "publishTime":"2020-07-06T18:56:27.408Z",
+         "contentId":"1591954451295.7927",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594061504163.775-5da6c75642b39a74a4a4cb34b77542aboptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955242613.4507-766bb84d2aba3a12fcd8cb4f1307a636.jpeg",
+         "position":69,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 70 ( 20 Mins ) : ALLIGATIONS & MIXTURES - PART 5",
+         "opens":4624,
+         "free":false,
+         "publishTime":"2020-07-07T11:22:05.749Z",
+         "contentId":"1591954509115.8486",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594120555921.1768-dd0edf1955952c3f063dc3790f38bd5doptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955297069.157-fce214227b2e7a7f38acfc7053180700.jpeg",
+         "position":70,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 71 ( 7 Mins ) : ALLIGATIONS & MIXTURES - PART 6",
+         "opens":3295,
+         "free":false,
+         "publishTime":"2020-07-07T11:26:41.869Z",
+         "contentId":"1591954601487.3977",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594121036664.4285-88748e5c4aee07127f6e02f4e1857296optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955322382.1611-dc1addfa2986d663a10037a576396668.jpeg",
+         "position":71,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 72 ( 8 Mins ) : ALLIGATIONS & MIXTURES - PART 7",
+         "opens":3250,
+         "free":false,
+         "publishTime":"2020-07-07T11:38:21.879Z",
+         "contentId":"1591954657075.3142",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594121727759.0862-5f62cfa9bd7a82ecb3253b546ab61405optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955349411.1824-73fb0d5652025c9bf6643246feec95e9.jpeg",
+         "position":72,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 73 ( 10 Mins ) : ALLIGATIONS & MIXTURES - PART 8",
+         "opens":3310,
+         "free":false,
+         "publishTime":"2020-07-07T17:37:32.124Z",
+         "contentId":"1591954792008.939",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594143157234.3774-46a6690f293ff747e458ef9c2b37e6e3optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955374811.3855-5b034de3b6fa8f85b207d72ddfca8d00.jpeg",
+         "position":73,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 74 ( 6 Mins ) : ALLIGATIONS & MIXTURES - PART 9",
+         "opens":2765,
+         "free":false,
+         "publishTime":"2020-07-07T17:41:36.927Z",
+         "contentId":"1591954875839.7844",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594143558748.3472-fe1636b1d3864c143145ece6e4178104optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955401133.145-240371b67c85129cf705bff3166b85c5.jpeg",
+         "position":74,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 75 ( 9 Mins ) : ALLIGATIONS & MIXTURES - PART 10",
+         "opens":2851,
+         "free":false,
+         "publishTime":"2020-07-07T17:47:08.786Z",
+         "contentId":"1591954999128.1724",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594143851827.2375-59879571d67e94202bc631cca7f1df2coptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591955422691.8625-cc13cd9f3b945a8f1819ecbd641751ec.jpeg",
+         "position":75,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 76 ( 18 Mins ) : RATIOS & PROPORTIONS - INTRODUCTION",
+         "opens":4945,
+         "free":false,
+         "publishTime":"2020-07-11T19:42:31.638Z",
+         "contentId":"1591956323419.379",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594495680375.9417-eb39da565cacb3016f643f90fdf6abd4optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591956861937.536-8389502486d11a93a8dd6ed174c0cab2.jpeg",
+         "position":76,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 77 ( 10 Mins ) : RATIOS & PROPORTIONS - PART 1",
+         "opens":3724,
+         "free":false,
+         "publishTime":"2020-07-11T19:49:17.846Z",
+         "contentId":"1591956368732.6755",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594496690475.9485-338074e53a2476ce10650f7c8b89eb6doptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591956891200.5364-f8b6ef17bf8043a564619f779853556f.jpeg",
+         "position":77,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 78 ( 8 Mins ) : RATIOS & PROPORTIONS - PART 2",
+         "opens":3432,
+         "free":false,
+         "publishTime":"2020-07-11T19:58:35.614Z",
+         "contentId":"1591956430757.2437",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594497122584.9634-b64465a14ff50c4e6ad400c72ae6fde0optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591956918274.0916-9ccd8a5cf282789d310f9c33f23c815a.jpeg",
+         "position":78,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 79 ( 9 Mins ) : RATIOS & PROPORTIONS - PART 3",
+         "opens":3405,
+         "free":false,
+         "publishTime":"2020-07-11T20:04:04.051Z",
+         "contentId":"1591956476972.5237",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594497638641.7747-d4f92ad683d11c44942b01cfb981ea11optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591956950379.436-43e8f28d3bc64a697316d1b0484646c0.jpeg",
+         "position":79,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 80 ( 6 Mins ) : RATIOS & PROPORTIONS - PART 4",
+         "opens":3181,
+         "free":false,
+         "publishTime":"2020-07-21T16:23:26.036Z",
+         "contentId":"1591956539489.2039",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595348442988.8218-a9a5d9dffe94c3d100dec01f82e72daboptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591956979476.0857-a944d7b3aa54532e14a980ad9d465740.jpeg",
+         "position":80,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 81 ( 9 Mins ) : RATIOS & PROPORTIONS - PART 5",
+         "opens":3086,
+         "free":false,
+         "publishTime":"2020-07-11T20:20:14.719Z",
+         "contentId":"1591956600429.462",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594498596513.4639-1bbb97c019d2202e9f0381fb9c491990optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591957029418.8066-2619ed98e9e2c11c99c6486ddac2ff97.jpeg",
+         "position":81,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 82 ( 9 Mins ) : RATIOS & PROPORTIONS - PART 6",
+         "opens":3349,
+         "free":false,
+         "publishTime":"2020-07-11T20:26:47.454Z",
+         "contentId":"1591956666444.3958",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594499014228.7207-2a0e9d6d962a0b7a4d05c8b965df6c3foptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591957059772.0103-7ac5c4241b5c6114405242c5dc38dc4d.jpeg",
+         "position":82,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 83 ( 7 Mins ) : RATIOS & PROPORTIONS - PART 7",
+         "opens":3229,
+         "free":false,
+         "publishTime":"2020-07-12T12:23:39.060Z",
+         "contentId":"1591956723412.3562",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594556430224.921-569de44a03504f73a5cfaae3d5c9159coptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591957087777.6013-accffbd302b30b52cf072a3c910d709b.jpeg",
+         "position":83,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 84 ( 9 Mins ) : RATIOS & PROPORTIONS - PART 8",
+         "opens":3042,
+         "free":false,
+         "publishTime":"2020-07-12T12:28:50.870Z",
+         "contentId":"1591956759286.854",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594556736095.5227-ab526678381844ef700f7dc94300755eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591957118795.6182-d11da649bb9e85b1f81ae92bf6dd3202.jpeg",
+         "position":84,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 85 ( 9 Mins ) : RATIOS & PROPORTIONS - PART 9",
+         "opens":2929,
+         "free":false,
+         "publishTime":"2020-07-12T12:34:05.428Z",
+         "contentId":"1591956790939.2095",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594557056382.8596-107a022074e9b85d8bb381b8c5cc239eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591957147812.8875-1e720fdd368776e9aebd233de31315c1.jpeg",
+         "position":85,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 86 ( 9 Mins ) : RATIOS & PROPORTIONS - PART 10",
+         "opens":3048,
+         "free":false,
+         "publishTime":"2020-07-12T12:39:43.023Z",
+         "contentId":"1591956830311.3962",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594557370369.7175-fa4e441b6b053b185d7fcec6c0402e5aoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591957176327.3923-61bb1cfdd5dc8ce188817167bd740010.jpeg",
+         "position":86,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 87 ( 15 Mins ) : PARTNERSHIP - INTRODUCTION",
+         "opens":3745,
+         "free":false,
+         "publishTime":"2020-07-14T18:51:41.864Z",
+         "contentId":"1591957374238.142",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594749791510.3047-9cfea6859ed90b3c3a3e1f0fda62d5d8optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591959413519.9753-05f2ffcb5c571d7eaf448a0fa0952b78.jpeg",
+         "position":87,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 88 ( 14 Mins ) : PARTNERSHIP - PART 1",
+         "opens":3352,
+         "free":false,
+         "publishTime":"2020-07-14T18:50:36.909Z",
+         "contentId":"1591957543259.3743",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594752185277.8752-2b35acb4eb66fa67904a98b88b06dc3boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591959460587.6929-3cbc74ddd5f9d56a6d8d8aae6d465f82.jpeg",
+         "position":88,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 89 ( 13 Mins ) : PARTNERSHIP - PART 2",
+         "opens":3029,
+         "free":false,
+         "publishTime":"2020-07-15T10:32:42.973Z",
+         "contentId":"1591959513510.0337",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594808804434.8862-7002d01381d61b1e21df7a4165cad57coptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591959761715.6233-6226349d1790a0fe26714e472d1cb6b4.jpeg",
+         "position":89,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 90 ( 7 Mins ) : PARTNERSHIP - PART 3",
+         "opens":2925,
+         "free":false,
+         "publishTime":"2020-07-15T10:45:23.122Z",
+         "contentId":"1591959570961.2131",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594809278720.1318-8ee309c348e3e93c41d28a96a5a6d6b5optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591959797450.182-04152d1f9b986b241cb7425114e58261.jpeg",
+         "position":90,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 91 ( 11 Mins ) : PARTNERSHIP - PART 4",
+         "opens":2910,
+         "free":false,
+         "publishTime":"2020-07-15T10:44:49.576Z",
+         "contentId":"1591959635366.3066",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594809618792.336-99342818b5f1950b4a3d5b500877d22eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591959847345.3303-b4793f1ad680ee5b2b1ebaa404e7d386.jpeg",
+         "position":91,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 92 ( 10 Mins ) : PARTNERSHIP - PART 5",
+         "opens":2754,
+         "free":false,
+         "publishTime":"2020-07-15T11:29:18.294Z",
+         "contentId":"1591959691543.1155",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594812329892.3657-2bd2b4fea443f1535eff263b1a96a50aoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591959878593.7288-94a24e40e9b492b66b3789f8a0f794a7.jpeg",
+         "position":92,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 93 ( 21 Mins ) : TIME & WORK - INTRODUCTION",
+         "opens":6151,
+         "free":false,
+         "publishTime":"2020-07-16T18:38:00.080Z",
+         "contentId":"1591960636339.1987",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594924119566.398-bbfc10221f2e5e6d309e6a2cb7ba76e3optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591961061186.9673-b175d3fd64ac9a95f51c932e7fce3e79.jpeg",
+         "position":93,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 94 ( 12 Mins ) : TIME & WORK - PART 1",
+         "opens":5126,
+         "free":false,
+         "publishTime":"2020-07-16T18:57:14.440Z",
+         "contentId":"1591960711069.4111",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1594925405772.2717-4cdf9e2035fe7e679a1414b9197a1141optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591961087729.42-dfa49b6eaca4595e808c1de48be66889.jpeg",
+         "position":94,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 95 ( 15 Mins ) : TIME & WORK - PART 2",
+         "opens":4920,
+         "free":false,
+         "publishTime":"2020-07-17T16:53:03.342Z",
+         "contentId":"1591961183863.5017",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595004412587.5393-6e2aed0e400a048038677d988e364c73optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591961526781.151-242142fedbc552b7079c48a589eb4404.jpeg",
+         "position":95,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 96 ( 14 Mins ) : TIME & WORK - PART 3",
+         "opens":4543,
+         "free":false,
+         "publishTime":"2020-07-17T17:05:49.065Z",
+         "contentId":"1591961217334.8079",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595005200138.5515-88341ba452a3661a057852bb34d26909optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591961559455.558-545f0a3b2e2f36024769558d77a70211.jpeg",
+         "position":96,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 97 ( 14 Mins ) : TIME & WORK - PART 4",
+         "opens":4513,
+         "free":false,
+         "publishTime":"2020-07-17T17:14:08.888Z",
+         "contentId":"1591961309760.716",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595005725531.0269-04df00f0ee71201edb2b1a9c22ae3b87optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591961593781.4421-4157da14b73520c2972c83267d73920c.jpeg",
+         "position":97,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 98 ( 14 Mins ) : TIME & WORK - PART 5",
+         "opens":3898,
+         "free":false,
+         "publishTime":"2020-07-19T14:40:07.773Z",
+         "contentId":"1591961343981.9453",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595169163849.9797-e1eb2a8e6cf2daae10a8e497904fd7d0optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591961620890.093-0f6912e94754730ac2bd0a904c2f754a.jpeg",
+         "position":98,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 99 ( 13 Mins ) : TIME & WORK - PART 6",
+         "opens":3901,
+         "free":false,
+         "publishTime":"2020-07-19T19:08:23.601Z",
+         "contentId":"1591961382129.0781",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595185255965.0747-4caa29e4582fb1018bad39380f718849optimized.mp4",
+         "description":"Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591961653532.758-2419e9a0371db7fc825952eb94d4462b.jpeg",
+         "position":99,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 100 ( 16  Mins ) : TIME & WORK - PART 7",
+         "opens":3937,
+         "free":false,
+         "publishTime":"2020-07-19T19:20:31.973Z",
+         "contentId":"1591961427932.6868",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595185956265.453-d48461af2a4a7e3fcbb83ce3c312b15boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591961763843.947-6ef29b41fc48762c762f3886b134b8d8.jpeg",
+         "position":100,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 101 ( 13 Mins ) : TIME & WORK - PART 8",
+         "opens":3035,
+         "free":false,
+         "publishTime":"2020-07-20T08:14:06.142Z",
+         "contentId":"1591961493319.1567",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595232423879.5657-fb2debd8a0ba31a19a1421f2439d0584optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591961707320.3945-f003c23b30c1e8dfe93c9f0f1e242c3c.jpeg",
+         "position":101,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 102 ( 7 Mins ) : PIPES & CISTERNS - PART 1",
+         "opens":3389,
+         "free":false,
+         "publishTime":"2020-07-20T17:57:07.806Z",
+         "contentId":"1591961907409.8757",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595267576506.6333-943f6723859ee20a83d62b3ad3772619optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962076426.9407-b93e4937165ef3de0198bdfcc2181927.jpeg",
+         "position":102,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 103 ( 20 Mins ) : PIPES & CISTERNS - PART 2",
+         "opens":3328,
+         "free":false,
+         "publishTime":"2020-07-20T18:10:40.398Z",
+         "contentId":"1591961949318.4995",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595268086840.6218-b4453de96aaa0f7648e48da1f43b1e47optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962102633.3477-33ff76d000a1a70c19e0e91ff9a3ae9b.jpeg",
+         "position":103,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 104 ( 8 Mins ) : PIPES & CISTERNS - PART 3",
+         "opens":2583,
+         "free":false,
+         "publishTime":"2020-07-20T18:20:31.054Z",
+         "contentId":"1591961982084.36",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595268978933.6199-c35103c470376a6dacdec00a070afa99optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962131390.52-89531635958306b948619de1e23bff82.jpeg",
+         "position":104,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 105 ( 10 Mins ) : PIPES & CISTERNS - PART 4",
+         "opens":2671,
+         "free":false,
+         "publishTime":"2020-07-20T18:29:02.921Z",
+         "contentId":"1591962023580.0132",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595269380255.304-d97e8908cc9f60885f68a2a1d745b23boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962165418.6724-ec86227fafdbdb7d0fc6483173684a80.jpeg",
+         "position":105,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 106 ( 13 Mins ) : TIME & DISTANCE - INTRODUCTION",
+         "opens":3848,
+         "free":false,
+         "publishTime":"2020-07-22T14:04:20.054Z",
+         "contentId":"1591962250097.033",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595426246246.949-4aacd0c8fdc5f82a1cc07f58624c3263optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962781807.817-75b2afdc9aa9918312a93db374b2af89.jpeg",
+         "position":106,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 107 ( 9 Mins ) : TIME & DISTANCE - PART 1",
+         "opens":3298,
+         "free":false,
+         "publishTime":"2020-07-22T14:24:09.922Z",
+         "contentId":"1591962288745.1099",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595427598375.3901-95ab84af2cc3761585c65c104d8f8a0aoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962817097.3984-af2ebdcb310fb8a8716b0c37080291db.jpeg",
+         "position":107,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 108 ( 6 Mins ) : TIME & DISTANCE - PART 2",
+         "opens":3142,
+         "free":false,
+         "publishTime":"2020-07-22T14:29:05.474Z",
+         "contentId":"1591962336009.4207",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595427959962.7058-eb6051ccc690793dbd761cb22b03e236optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962891062.8984-40a8536ad96ea6188f73b86bc7055e27.jpeg",
+         "position":108,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 109 ( 13 Mins ) : TIME & DISTANCE - PART 3",
+         "opens":3566,
+         "free":false,
+         "publishTime":"2020-07-22T14:37:29.415Z",
+         "contentId":"1591962392792.9753",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595428303624.7317-4a65ba609f7db7cf9e2ed121c5d71242optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962920730.7336-f884fdfce2c56d9dfb3a861681729f37.jpeg",
+         "position":109,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 110 ( 10 Mins ) : TIME & DISTANCE - PART 4",
+         "opens":3383,
+         "free":false,
+         "publishTime":"2020-07-22T18:03:59.393Z",
+         "contentId":"1591962475897.4282",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595440653853.5574-c3a391a1797ed26b53db51330a9820bdoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962944952.1882-bae6802d33ce932de79cef718c31f432.jpeg",
+         "position":110,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 111 ( 20 Mins ) : TIME & DISTANCE - PART 5",
+         "opens":3846,
+         "free":false,
+         "publishTime":"2020-07-24T04:13:24.376Z",
+         "contentId":"1591962511083.7886",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595562753262.0635-d592a2e631b30a255faaf383f6f85254optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962972338.9817-1ebacf7a485589f48bca0361bd913696.jpeg",
+         "position":111,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 112 ( 18 Mins ) : TIME & DISTANCE - PART 6",
+         "opens":3356,
+         "free":false,
+         "publishTime":"2020-07-24T10:45:42.372Z",
+         "contentId":"1591962590483.7925",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595587002828.783-a104d1ea685581ce9ef597c41a2c2940optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591962995278.622-2b568e929aaf60beaa4562fa4c7fffca.jpeg",
+         "position":112,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 113 ( 12 Mins ) : TIME & DISTANCE - PART 7",
+         "opens":2834,
+         "free":false,
+         "publishTime":"2020-07-24T12:18:07.864Z",
+         "contentId":"1591962653751.92",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595592723999.2312-2f3599c1f9868796fa72e93535782d9doptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591963021022.7703-2e2b52b6acc5266851e2d80527cda33a.jpeg",
+         "position":113,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 114 ( 11 Mins ) : TIME & DISTANCE - PART 8",
+         "opens":2622,
+         "free":false,
+         "publishTime":"2020-07-24T12:29:29.687Z",
+         "contentId":"1591962733954.104",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595593361842.7168-d6abc3fbe9fa4ec419a73114eda11243optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591963047893.986-57a339811a7e80c74c1c1fa32b7600f6.jpeg",
+         "position":114,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 115 ( 10 Mins ) : TIME & DISTANCE - PART 9",
+         "opens":2542,
+         "free":false,
+         "publishTime":"2020-07-24T12:37:36.187Z",
+         "contentId":"1591963120394.8333",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595593969043.584-033033d3edae83988c339a2e5bf969ffoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591963309308.1643-cd3ecce6fe04c2dc70cad5225eb6d2b1.jpeg",
+         "position":115,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 116 ( 11 Mins ) : BOATS & STREAMS - PART 1",
+         "opens":3428,
+         "free":false,
+         "publishTime":"2020-07-24T14:44:12.712Z",
+         "contentId":"1591963168663.516",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595601552666.3098-9042473a8aa07fd5745e1186dd7f9e9boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591963338612.9385-01da98153ec01f39bda6044b86c86262.jpeg",
+         "position":116,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 117 ( 10 Mins ) : BOATS & STREAMS - PART 2",
+         "opens":2680,
+         "free":false,
+         "publishTime":"2020-07-24T17:59:40.197Z",
+         "contentId":"1591963238784.2498",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595613193438.6252-10a11b7d6f2719e696a6a598dfa83147optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591963376134.9094-0ee555063bb0171a93fa9e9809f35b61.jpeg",
+         "position":117,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 118 ( 11 Mins ) : BOATS & STREAMS - PART 3",
+         "opens":2661,
+         "free":false,
+         "publishTime":"2020-07-24T18:08:44.239Z",
+         "contentId":"1591963283712.0393",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595613735973.4082-ed16378d299e311f3d214a7fd3d0cdd9optimized.mp4",
+         "description":"Releasing on 29th July 2020",
+         "thumbnail":"https://cdn.socionity.com/1591963408906.156-ce89e72e7232737e7ccf641d6f6c3316.jpeg",
+         "position":118,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 119 ( 13 Mins ) : PERMUTATIONS & COMBINATIONS - INTRODUCTION",
+         "opens":4001,
+         "free":false,
+         "publishTime":"2020-07-26T12:16:24.531Z",
+         "contentId":"1591963620325.4749",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595765369903.7449-b153fa70abab92cf5503a3f30c280e0eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964382389.4905-2e9633fc15d9af9e72d0723e6a6f2050.jpeg",
+         "position":119,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 120 ( 17 Mins ) : PERMUTATIONS & COMBINATIONS - PART 1",
+         "opens":3478,
+         "free":false,
+         "publishTime":"2020-07-27T09:17:40.599Z",
+         "contentId":"1591963699247.9373",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595840949775.5212-44c4ede0ba55b46d3b6d4f4090c219b3optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964413000.4126-8de1e99fbe2b0e52402ca0d512fa849b.jpeg",
+         "position":120,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 121 ( 7 Mins ) : PERMUTATIONS & COMBINATIONS - PART 2",
+         "opens":2894,
+         "free":false,
+         "publishTime":"2020-07-27T09:23:18.548Z",
+         "contentId":"1591963741844.1858",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595841578981.2222-97d8bf3fdec7aae9b55058d44c8adb31optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964447051.045-ee036668dc13a35c034288956c365ff2.jpeg",
+         "position":121,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 122 ( 11 Mins ) : PERMUTATIONS & COMBINATIONS - PART 3",
+         "opens":2653,
+         "free":false,
+         "publishTime":"2020-07-27T09:30:38.273Z",
+         "contentId":"1591963977885.7478",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595841969446.8462-eb82732195c233377ebe160b16ec3988optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964480372.5676-75ed7f847661394028247231d1bbc10e.jpeg",
+         "position":122,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 123 ( 6 Mins ) : PERMUTATIONS & COMBINATIONS - PART 4",
+         "opens":2660,
+         "free":false,
+         "publishTime":"2020-07-27T12:14:21.191Z",
+         "contentId":"1591964064859.2214",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595851800438.3137-aca2d25b5a74c36959197ccc7780c7d1optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964508000.388-c2bc44a28dc42ece0ab78e983771533a.jpeg",
+         "position":123,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 124 ( 12 Mins ) : PERMUTATIONS & COMBINATIONS - PART 5",
+         "opens":2707,
+         "free":false,
+         "publishTime":"2020-07-27T15:15:25.836Z",
+         "contentId":"1591964099967.5356",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595862491040.422-a55482f9e2025a36ddab13cd2171ca13optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964536531.1177-bf8db4661a537e683d11b3224570d2b4.jpeg",
+         "position":124,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"PVIDEO 125 ( 5 Mins ) : PERMUTATIONS & COMBINATIONS - PART 6",
+         "opens":2242,
+         "free":false,
+         "publishTime":"2020-07-27T15:20:10.944Z",
+         "contentId":"1591964173956.936",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595863006318.715-08a428a1cbdac895277e69d98ac296bboptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964568801.2383-882bafa9c38746c17bd68aa31d0df55d.jpeg",
+         "position":125,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 126 ( 9 Mins ) : PERMUTATIONS & COMBINATIONS - PART 7",
+         "opens":2494,
+         "free":false,
+         "publishTime":"2020-07-27T18:33:27.666Z",
+         "contentId":"1591964218483.444",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595874275604.228-875287ce0bf9cc27c95ec9fbbbdf28cfoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964596262.592-c9e476bc6ee396f4aa4972841dc28b2b.jpeg",
+         "position":126,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 127 ( 9 Mins ) : PERMUTATIONS & COMBINATIONS - PART 8",
+         "opens":2491,
+         "free":false,
+         "publishTime":"2020-07-28T14:42:46.581Z",
+         "contentId":"1591964265211.9692",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595947021504.948-ffd39724463238eca03a2fd1929e1238optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964623339.345-762904b1aa51a2d98b7424d44506fd5a.jpeg",
+         "position":127,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 128 ( 8 Mins ) : PERMUTATIONS & COMBINATIONS - PART 9",
+         "opens":2343,
+         "free":false,
+         "publishTime":"2020-07-28T14:54:49.625Z",
+         "contentId":"1591964309944.7302",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595947836474.525-76299aa01cca86ba52d129d197985f70optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964651649.0696-185182f70b0b9dd1a661be3a1fefbc0b.jpeg",
+         "position":128,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 129 ( 15 Mins ) : PERMUTATIONS & COMBINATIONS - PART 10",
+         "opens":2549,
+         "free":false,
+         "publishTime":"2020-07-28T15:07:07.079Z",
+         "contentId":"1591964354068.2957",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1595948277563.8887-e94f48e4b21ca19dfa3a9169f87266aboptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591964679307.0894-3ddb6037f1b591aa959bc0e8403e412a.jpeg",
+         "position":129,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 130 ( 20 Mins ) : PROBABILITY - INTRODUCTION",
+         "opens":3546,
+         "free":false,
+         "publishTime":"2020-07-30T18:36:00.359Z",
+         "contentId":"1591965069483.2043",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596133482814.832-e8690e4ac5b4e9e157fe54adbc926ff2optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966111268.1768-94b1f38859ea4645dccd12bdfc97290e.jpeg",
+         "position":130,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 131 ( 14 Mins ) : PROBABILITY - PART 1",
+         "opens":2655,
+         "free":false,
+         "publishTime":"2020-07-30T19:05:44.721Z",
+         "contentId":"1591965105118.6458",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596135455930.6743-ef9d0f9c83c991a2252d5943fb2e4615optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966147375.6091-1c15162d5a04a8af370821ab2b7d1fc0.jpeg",
+         "position":131,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 132 ( 14 Mins ) : PROBABILITY - PART 2",
+         "opens":2471,
+         "free":false,
+         "publishTime":"2020-07-31T07:30:42.297Z",
+         "contentId":"1591965139353.1404",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596179997418.871-a1f96cf796bac2c5f196494485d0b4beoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966181155.1182-0231878109dd225409f8ae19609acbb9.jpeg",
+         "position":132,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 133 ( 7 Mins ) : PROBABILITY - PART 3",
+         "opens":1899,
+         "free":false,
+         "publishTime":"2020-07-31T10:36:46.451Z",
+         "contentId":"1591965174244.01",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596191480507.6357-0154bd80742f2c879da9d3890e657228optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966207519.2659-0819e5f6e0d9f92760ce82d510bdb6b5.jpeg",
+         "position":133,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 134 ( 11 Mins ) : PROBABILITY - PART 4",
+         "opens":1812,
+         "free":false,
+         "publishTime":"2020-07-31T10:46:00.550Z",
+         "contentId":"1591965223818.5457",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596191954001.5723-d77fd53a168550a5b43cdae2706d8bc6optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966235094.7207-7f6a073c1e5e91839b3e97006202ba5b.jpeg",
+         "position":134,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 135 ( 6 Mins ) : PROBABILITY - PART 5",
+         "opens":1905,
+         "free":false,
+         "publishTime":"2020-07-31T13:59:48.118Z",
+         "contentId":"1591965262448.6018",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596203751455.4595-ed122814d67fb667092e5fb68ef6b322optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966263197.84-f52cd6fa55eab44b3f7566f5a66ac9c7.jpeg",
+         "position":135,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 136 ( 9 Mins ) : PROBABILITY - PART 6",
+         "opens":1750,
+         "free":false,
+         "publishTime":"2020-07-31T14:06:34.897Z",
+         "contentId":"1591965302533.7998",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596204102210.9863-bc34e378110303b01552a05c22296739optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966288959.4553-8c0844c59b27fd9a7ba433b2d72ad8c1.jpeg",
+         "position":136,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 137 ( 6 Mins ) : PROBABILITY - PART 7",
+         "opens":1584,
+         "free":false,
+         "publishTime":"2020-07-31T18:25:04.994Z",
+         "contentId":"1591965333961.027",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596219650741.171-72b21930a45637d5a67f2906a01277a2optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966318109.8267-752bc9ea2d14e3068115863e5def7f04.jpeg",
+         "position":137,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 138 ( 9 Mins ) : PROBABILITY - PART 8",
+         "opens":1767,
+         "free":false,
+         "publishTime":"2020-07-31T18:34:38.507Z",
+         "contentId":"1591965363904.9556",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596220032097.185-c0f432ef1d2281a10ebffcabbe37d368optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966345744.8345-0e24d9b92dc4191d1193ba72b06aa66d.jpeg",
+         "position":138,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 139 ( 10 Mins ) : PROBABILITY - PART 9",
+         "opens":1695,
+         "free":false,
+         "publishTime":"2020-07-31T18:56:25.489Z",
+         "contentId":"1591965400951.1726",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596221125250.2166-1257c9c030d297eb8db627ca79f18ce6optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966376373.6135-cf8c4c1fe6ff9a86c7dfd3ca195d20b1.jpeg",
+         "position":139,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 140 ( 9 Mins ) : PROBABILITY - PART 10",
+         "opens":1795,
+         "free":false,
+         "publishTime":"2020-08-01T06:38:34.752Z",
+         "contentId":"1591965433811.385",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596263543652.4248-1a13d39e49cf58555c8cda5999dbe624optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966407056.5403-cd3554a072a604cd1f0ef161c96c67a4.jpeg",
+         "position":140,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 141 ( 10 Mins ) : CLOCKS - INTRODUCTION",
+         "opens":3183,
+         "free":false,
+         "publishTime":"2020-08-02T18:57:41.538Z",
+         "contentId":"1591965542222.6191",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596394326145.8928-6fac6b8be111370b794988af8292aa31optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966434783.225-8f18e024dc794c9217c31a41de581292.jpeg",
+         "position":141,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 142 ( 24 Mins ) : CLOCKS - PART 1",
+         "opens":2899,
+         "free":false,
+         "publishTime":"2020-08-02T19:15:47.747Z",
+         "contentId":"1591965604508.4688",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596394943034.016-e480c5e14e679dac9f70089d291177bcoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966461547.4128-31891a9a1660f5f8802aa08a1d6c0a18.jpeg",
+         "position":142,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 143 ( 8 Mins ) : CLOCKS - PART 2",
+         "opens":2042,
+         "free":false,
+         "publishTime":"2020-08-02T19:22:16.839Z",
+         "contentId":"1591965641876.9475",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596395854235.401-366da8efc193e4ab30ffc492be81ebdfoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966487270.548-6fc7ca404b6a15aba7a98589db56c268.jpeg",
+         "position":143,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 144 ( 19 Mins ) : CLOCKS - PART 3",
+         "opens":2287,
+         "free":false,
+         "publishTime":"2020-08-02T19:36:37.831Z",
+         "contentId":"1591965678616.2622",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596396368320.835-6988ab1853a3f5e63de271adf10eda1boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966518708.8218-6f39c2714cb71dd78e66ba567c22f147.jpeg",
+         "position":144,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 145 ( 6 Mins ) : CLOCKS - PART 4",
+         "opens":1860,
+         "free":false,
+         "publishTime":"2020-08-02T19:42:27.674Z",
+         "contentId":"1591965723914.5444",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596397149855.3772-3417bc316bb5d5724807d58b58fb51acoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966544461.3506-7c688fb23aec8c5e1db6a1b21581c9a7.jpeg",
+         "position":145,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 146 ( 7 Mins ) : CLOCKS - PART 5",
+         "opens":1825,
+         "free":false,
+         "publishTime":"2020-08-03T17:40:01.192Z",
+         "contentId":"1591965784968.7866",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596476138832.6338-ff95990ff8e95835ec34a3338d755101optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966567602.2585-7c8c4d0a2b4f13c431170a437e7da93f.jpeg",
+         "position":146,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 147 ( 8 Mins ) : CLOCKS - PART 6",
+         "opens":1730,
+         "free":false,
+         "publishTime":"2020-08-03T17:46:39.910Z",
+         "contentId":"1591965830085.5127",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596476527330.3586-92625a9258b0a5adbbdfe25667e8d31foptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966596519.1597-0e825f84b957e3f065c1e92daf81d654.jpeg",
+         "position":147,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 148 ( 11 Mins ) : CLOCKS - PART 7",
+         "opens":1821,
+         "free":false,
+         "publishTime":"2020-08-03T17:55:10.743Z",
+         "contentId":"1591965878143.9907",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596476942745.0276-2f6dcfe8cdf86acae45402d220e88672optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966620283.9744-480d20964051839d145f12f231bb250b.jpeg",
+         "position":148,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 149 ( 7 Mins ) : CLOCKS - PART 8",
+         "opens":1545,
+         "free":false,
+         "publishTime":"2020-08-03T18:00:46.669Z",
+         "contentId":"1591965910562.5984",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596477410139.1162-def952a52498043e9f6ccd206da22db6optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966646094.2588-a803d4397af01b6956e1a714c45f338d.jpeg",
+         "position":149,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 150 ( 8 Mins ) : CLOCKS - PART 9",
+         "opens":1597,
+         "free":false,
+         "publishTime":"2020-08-04T08:11:35.000Z",
+         "contentId":"1591965947493.5173",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596528410589.2112-3bc059206a2b16d3c61903616dab5002optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966671586.4111-0bff58e52f75d4e10763aae5b788acdc.jpeg",
+         "position":150,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 151 ( 13 Mins ) : CLOCKS - PART 10",
+         "opens":1988,
+         "free":false,
+         "publishTime":"2020-08-04T08:24:08.690Z",
+         "contentId":"1591965986398.3792",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596528866059.3381-7d6a78345c9b0c7e2326ea9fd387820aoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591966698875.987-cd2e256a14b12a782bab8695670b7330.jpeg",
+         "position":151,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 152 ( 15 Mins ) : CALENDARS - INTRODUCTION",
+         "opens":2751,
+         "free":false,
+         "publishTime":"2020-08-05T14:38:59.348Z",
+         "contentId":"1591967118996.9763",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596637858793.2275-6c6f9dbc35822e099bdc426b0e986e94optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973087286.5195-db93d3e68274705db7b81bb04e743bc7.jpeg",
+         "position":152,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 153 ( 10 Mins ) : CALENDARS - PART 1",
+         "opens":2186,
+         "free":false,
+         "publishTime":"2020-08-05T14:46:53.907Z",
+         "contentId":"1591967209607.5322",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596638464323.0808-8352120adafd8633f4b10d6b2904fad9optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973117265.2068-6c47703851d9cb8e81c71035537d67cb.jpeg",
+         "position":153,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 154 ( 11 Mins ) : CALENDARS - PART 2",
+         "opens":1663,
+         "free":false,
+         "publishTime":"2020-08-05T18:20:41.243Z",
+         "contentId":"1591967243908.7502",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596651235024.1394-26204c4d9b57b53cb8dc9a74a020a4b1optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973154529.8503-22b314f1cca3e3666c4c99b4ab5cee01.jpeg",
+         "position":154,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 155 ( 12 Mins ) : CALENDARS - PART 3",
+         "opens":1780,
+         "free":false,
+         "publishTime":"2020-08-05T18:30:39.013Z",
+         "contentId":"1591967295103",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596651819351.701-f6cad89efb9ccec6c8e8be271e7944eeoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973218820.5945-dd7b5b1c95e18bc7908bcaa2d3283229.jpeg",
+         "position":155,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 156 ( 14 Mins ) : CALENDARS - PART 4",
+         "opens":1641,
+         "free":false,
+         "publishTime":"2020-08-06T14:14:54.363Z",
+         "contentId":"1591967330403.3909",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596722769089.334-7c382ad575e078c25fa90c8e8a2e2ec1optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973247873.4092-9c34ac2328749368dd526e6038d9453a.jpeg",
+         "position":156,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 157 ( 13 Mins ) : CALENDARS - PART 5",
+         "opens":1447,
+         "free":false,
+         "publishTime":"2020-08-06T14:27:12.323Z",
+         "contentId":"1591967364261.6558",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596723471220.5405-29e72d776b0fb682bfab5aec70d13be4optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973274349.6013-6d38fb2332a8bccc10d8972d16b00ee6.jpeg",
+         "position":157,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 158 ( 8 Mins ) : CALENDARS - PART 6",
+         "opens":1400,
+         "free":false,
+         "publishTime":"2020-08-06T14:33:56.630Z",
+         "contentId":"1591967403489.9346",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596724131615.14-2913c37cd3fb0535be07f2a8e2efcf52optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973303066.5295-b7bf8c12ca8c9a97f64ce8fc6f2ca23b.jpeg",
+         "position":158,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 159 ( 13 Mins ) : CALENDARS - PART 7",
+         "opens":1363,
+         "free":false,
+         "publishTime":"2020-08-06T14:47:34.601Z",
+         "contentId":"1591968065963.9578",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596724753334.729-3ae1ebc1e9bfeb25143873885222547foptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973331021.1167-bb7ec86a9bf3112e17e39c4688d191d1.jpeg",
+         "position":159,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 160 ( 8 Mins ) : CALENDARS - PART 8",
+         "opens":1146,
+         "free":false,
+         "publishTime":"2020-08-07T18:31:42.441Z",
+         "contentId":"1591968117563.903",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596824705607.3213-4270c1cb188e18c1e23552c8e056f5afoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973439022.0664-0bb3db1c4d3b6a9dc87cc84952f9177e.jpeg",
+         "position":160,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 161 ( 7 Mins ) : CALENDARS - PART 9",
+         "opens":1106,
+         "free":false,
+         "publishTime":"2020-08-06T18:19:55.331Z",
+         "contentId":"1591968186741.296",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596737744184.4414-2b789266827234d787573e6512134b01optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973465703.641-82f826cdbe109ea958bbfb23d17fb646.jpeg",
+         "position":161,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 162 ( 7 Mins ) : CALENDARS - PART 10",
+         "opens":1134,
+         "free":false,
+         "publishTime":"2020-08-06T19:32:34.372Z",
+         "contentId":"1591968404312.5374",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596742080041.4148-620e0bf908dc3c91e00ffff8e695b6d6optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973497407.2876-d829d09c1ec66de78e7752a4ce16a9ce.jpeg",
+         "position":162,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 163 ( 15 Mins ) : MENSURATION - INTRODUCTION",
+         "opens":2656,
+         "free":false,
+         "publishTime":"2020-08-09T07:02:53.935Z",
+         "contentId":"1591968596774.553",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596955331195.0562-2e010388f4d1386bfdcf51d0ecf6b808optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973526084.9517-56a4b8699742a0b327d0d591380a7003.jpeg",
+         "position":163,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 164 ( 12 Mins ) : MENSURATION - PART 1",
+         "opens":1976,
+         "free":false,
+         "publishTime":"2020-08-08T09:51:46.350Z",
+         "contentId":"1591968762018.8838",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596879864377.947-d6e428c68109ac9b0c920296efef7969optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973554750.743-2e3348950eaa8a3c8ccc62bd4e5d0cfb.jpeg",
+         "position":164,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 165 ( 15 Mins ) : MENSURATION - PART 2",
+         "opens":1763,
+         "free":false,
+         "publishTime":"2020-08-08T10:04:12.026Z",
+         "contentId":"1591968797908.4553",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596880498983.898-dc2856286ca2e40c86aeea0fd17a8575optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973588501.3062-bf23b606e6b906c7f660928754500cf7.jpeg",
+         "position":165,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 166 ( 12 Mins ) : MENSURATION - PART 3",
+         "opens":1428,
+         "free":false,
+         "publishTime":"2020-08-08T14:12:44.954Z",
+         "contentId":"1591968853009.9092",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596895486315.5266-24d096705c59658a1313962ed61b82c7optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973612394.0134-a0824407d12bc4765a54c279ce20efcf.jpeg",
+         "position":166,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 167 ( 5 Mins ) : MENSURATION - PART 4",
+         "opens":1261,
+         "free":false,
+         "publishTime":"2020-08-08T18:22:02.710Z",
+         "contentId":"1591968888102.6118",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596910697650.081-217095733de02de7556a66e12fae0cadoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973636367.3005-b0b20a3d69addf029c1486f838e833be.jpeg",
+         "position":167,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 168 ( 10 Mins ) : MENSURATION - PART 5",
+         "opens":1465,
+         "free":false,
+         "publishTime":"2020-08-09T10:14:28.698Z",
+         "contentId":"1591968920011.3408",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1596967090414.7285-cf3f18ceafdbd6beafa7190f306f483doptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973662304.7517-af619052c941419b85ac3f19d925f0f6.jpeg",
+         "position":168,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 169 ( 20 Mins ) - LCM & HCF - INTRODUCTION",
+         "opens":2970,
+         "free":false,
+         "publishTime":"2020-08-10T10:53:24.139Z",
+         "contentId":"1591969043610.8445",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597055878048.991-500cc6845abc3d45ce08ef56c9acc4beoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973688395.7976-6613c733ce7ad8c82ed05a9d83906c7e.jpeg",
+         "position":169,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 170 ( 15 Mins ) - LCM & HCF - PART 1",
+         "opens":2647,
+         "free":false,
+         "publishTime":"2020-08-10T14:02:21.801Z",
+         "contentId":"1591969084326.7288",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597067579694.646-046ed9f8a049cf6c1023f383fcb48a2coptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973716628.1387-84e723a6f1427fcc0fcb16cc855ed513.jpeg",
+         "position":170,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 171 ( 16 Mins ) - LCM & HCF - PART 2",
+         "opens":2113,
+         "free":false,
+         "publishTime":"2020-08-10T18:00:26.104Z",
+         "contentId":"1591969151555.0723",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597081751225.289-806c93e271fc022341c1e2500fb650e8optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973744740.172-33faf3b79b97ced127b7ba19484d3a38.jpeg",
+         "position":171,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 172 ( 10 Mins ) - LCM & HCF - PART 3",
+         "opens":1832,
+         "free":false,
+         "publishTime":"2020-08-11T06:48:22.865Z",
+         "contentId":"1591969203255.25",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597128070015.941-184ae591ae51fd72478b7e2ccd521b9eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973783835.907-eece7ae75ee80ca38438efab290461f0.jpeg",
+         "position":172,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 173 ( 14 Mins ) - LCM & HCF  - PART 4",
+         "opens":1980,
+         "free":false,
+         "publishTime":"2020-08-11T09:25:36.916Z",
+         "contentId":"1591969269210.2588",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597137380270.9062-fdadbf9cab724325401ad41aa855920boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973818599.0322-1e8b07492e26210a78fd4f28d8e2d056.jpeg",
+         "position":173,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 174 ( 25 Mins ) : SYLLOGISM - INTRODUCTION",
+         "opens":3962,
+         "free":false,
+         "publishTime":"2020-08-12T14:11:11.774Z",
+         "contentId":"1591969444087.1035",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597240432242.802-9aaad5e161f68d0f0b8a031eb274024eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973850137.4155-ee9338cd6623eccb4c07065f565030f3.jpeg",
+         "position":174,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 175 ( 26 Mins ) : SYLLOGISM - PART 1",
+         "opens":3158,
+         "free":false,
+         "publishTime":"2020-08-13T04:34:35.615Z",
+         "contentId":"1591969509743.0693",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597292148320.6804-a4566919ea2352314b2204c84539437aoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973881499.8408-7b160fc5671fe1ec1dc03885cdd374ed.jpeg",
+         "position":175,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 176 ( 15 Mins ) : SYLLOGISM - PART 2",
+         "opens":2840,
+         "free":false,
+         "publishTime":"2020-08-13T08:55:09.542Z",
+         "contentId":"1591969540687.2922",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597308392265.798-a2b117530e34e91afc28cdfe11290761optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973915504.8901-c3bbceb9ee5e3c4276ef0553c0f0f939.jpeg",
+         "position":176,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 177 ( 10 Mins ) : SYLLOGISM - PART 3",
+         "opens":1829,
+         "free":false,
+         "publishTime":"2020-08-13T09:06:24.826Z",
+         "contentId":"1591969571981.5042",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597309218698.9204-33d474b737737e508a2edd4497dfaaa7optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973941903.517-d576ff60a4881fd6701962ea56de63e3.jpeg",
+         "position":177,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 178 ( 8 Mins ) : SYLLOGISM - PART 4",
+         "opens":1711,
+         "free":false,
+         "publishTime":"2020-08-13T12:35:13.690Z",
+         "contentId":"1591969605213.701",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597321782947.4697-ed2ce05bcc4217247f1cc6a0995b4795optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973970655.6958-86ddd4189f7bf76c769cdc73bf51d8ad.jpeg",
+         "position":178,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 179 ( 11 Mins ) : SYLLOGISM - PART 5",
+         "opens":1609,
+         "free":false,
+         "publishTime":"2020-08-13T14:09:06.337Z",
+         "contentId":"1591969646382.4346",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597327304501.8062-06c370d403c2817978ea13ead3956e02optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591973999003.1606-c2505b84fca8601a8a62be07b8465021.jpeg",
+         "position":179,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 180 ( 13 Mins ) : SYLLOGISM - PART 6",
+         "opens":1673,
+         "free":false,
+         "publishTime":"2020-08-13T14:20:19.239Z",
+         "contentId":"1591969679699.1755",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597327908139.7773-d739cbd2a906838bf88bcbe161d45d4foptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974023378.0637-1d8bc0a914257ff309ae7aef48cd6ed5.jpeg",
+         "position":180,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 181 ( 20 Mins ) : BLOOD RELATIONS - INTRODUCTION",
+         "opens":3309,
+         "free":false,
+         "publishTime":"2020-08-15T04:32:11.101Z",
+         "contentId":"1591969835833.3618",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597465251470.7227-e80fda122343d2dab3abe11755a80daaoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974049565.0588-678cd589648a27513369666c2ea9fba0.jpeg",
+         "position":181,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 182 ( 11 Mins ) : BLOOD RELATIONS - PART 1",
+         "opens":2490,
+         "free":false,
+         "publishTime":"2020-08-15T10:41:12.023Z",
+         "contentId":"1591969886474.3318",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597486621739.3445-cfbc6876644d37a631e0c34f1a2cc2feoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974085720.2407-fa0d15485d164019ab011b9fe998de27.jpeg",
+         "position":182,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 183 ( 15 Mins ) : BLOOD RELATIONS - PART 2",
+         "opens":1902,
+         "free":false,
+         "publishTime":"2020-08-15T17:23:50.950Z",
+         "contentId":"1591969965102.8862",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597511634157.763-20f5091fd61e87f5a7b3587f2495a254optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974113764.6934-5bbe16e5f8071bfd661f239d0c84995f.jpeg",
+         "position":183,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 184  ( 8 Mins ) : BLOOD RELATIONS - PART 3",
+         "opens":1612,
+         "free":false,
+         "publishTime":"2020-08-16T11:50:41.275Z",
+         "contentId":"1591970089094.3743",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597575868756.587-ce1620875406f134333c9b21c6097807optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974140774.9534-c35a19ac43c4fb96aff55c669d4ea446.jpeg",
+         "position":184,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 185 ( 16 Mins ) : BLOOD RELATIONS - PART 4",
+         "opens":1665,
+         "free":false,
+         "publishTime":"2020-08-16T11:51:07.366Z",
+         "contentId":"1591970134762.5383",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597577006453.663-8af7600b96dd05fd2362a6241e5067ddoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974170005.7842-e79c963a63110f0bba93b5796d7a12d5.jpeg",
+         "position":185,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 186 ( 11 Mins ) : SEATING ARRANGEMENT - INTRODUCTION",
+         "opens":2835,
+         "free":false,
+         "publishTime":"2020-08-18T10:03:13.436Z",
+         "contentId":"1591970233497.5552",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597744301351.0413-1a1b2104e8a78f61b9daaf8d3fd59117optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974240098.1846-4cd9bb2059004f5342c63838bcb2f8ed.jpeg",
+         "position":186,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 187 ( 10 Mins ) : SEATING ARRANGEMENT - PART 1",
+         "opens":2283,
+         "free":false,
+         "publishTime":"2020-08-18T10:26:33.643Z",
+         "contentId":"1591970286761.8381",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597745203804.7-8e76d6044ba3ac1b6d791a3e83334fa1optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974296245.0544-4d631c0113926bea503b6c2e7028d82d.jpeg",
+         "position":187,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 188 ( 7 Mins ) : SEATING ARRANGEMENT - PART 2",
+         "opens":1906,
+         "free":false,
+         "publishTime":"2020-08-25T09:46:15.871Z",
+         "contentId":"1591970316802.379",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598348489987.9858-a7d11f22931c2843869093047278e3d8optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974321095.0107-986fb3c1ea3a40f5a8d9094e2e086478.jpeg",
+         "position":188,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 189 ( 15 Mins ) : SEATING ARRANGEMENT - PART 3",
+         "opens":1911,
+         "free":false,
+         "publishTime":"2020-08-19T12:26:45.457Z",
+         "contentId":"1591970351700.7349",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597839431914.0122-a36b0214c6ea43a86ffafd94e4008597optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974348787.661-a3e043811121a3a9a1ecbb67d9128c54.jpeg",
+         "position":189,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 190 ( 11 Mins ) : SEATING ARRANGEMENT - PART 4",
+         "opens":1767,
+         "free":false,
+         "publishTime":"2020-08-19T12:37:44.665Z",
+         "contentId":"1591970386264.8772",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597840288370.353-53070f64b29761a244dfe670a309c167optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974375522.2288-c551cac6ec0cef935f71b77e8ceb950d.jpeg",
+         "position":190,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 191 ( 8 Mins ) : LOGICAL PUZZLES - INTRODUCTION",
+         "opens":2218,
+         "free":false,
+         "publishTime":"2020-08-20T15:42:26.064Z",
+         "contentId":"1591970467128.6213",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1597931785550.6716-6375cbf171c322370fc16521b623e14foptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974411349.0557-f3ecc682a537f6c34b8c118aaf0d426e.jpeg",
+         "position":191,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 192 ( 19 Mins ) : LOGICAL PUZZLES - PART 1",
+         "opens":2212,
+         "free":false,
+         "publishTime":"2020-08-21T14:50:29.075Z",
+         "contentId":"1591970503862.871",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598003121458.3604-0fa1ec5fe2d34ad77a1bab257e62be06optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974442452.4011-13193343b5975ded254ade65cc1fd103.jpeg",
+         "position":192,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 193 ( 15 Mins ) : LOGICAL PUZZLES - PART 2",
+         "opens":1715,
+         "free":false,
+         "publishTime":"2020-08-22T05:35:42.478Z",
+         "contentId":"1591970557597.9941",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598073431706.984-eee220228f1c6b4c11e266b654330ed9optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974470093.6497-df59cb1c14b071f62ae39153b8861bcf.jpeg",
+         "position":193,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 194 ( 13 Mins ) : LOGICAL PUZZLES - PART 3",
+         "opens":1669,
+         "free":false,
+         "publishTime":"2020-08-22T05:53:13.964Z",
+         "contentId":"1591970691844.0415",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598074708345.3845-6bda258cf3d97f751cc06d1520a0763eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974496167.429-bdc8db75fe51b24fc2adf31c8f25628d.jpeg",
+         "position":194,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 195 ( 12 Mins ) : LOGICAL PUZZLES - PART 4",
+         "opens":1387,
+         "free":false,
+         "publishTime":"2020-08-22T09:07:44.355Z",
+         "contentId":"1591970726335.1614",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598086788598.2136-67c85bd1b1772f0127d71d38b82e24eeoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974522516.8276-4f8500671f11d459d6300f710afee838.jpeg",
+         "position":195,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 196 ( 21 Mins ) : NUMBER SERIES - INTRODUCTION",
+         "opens":2928,
+         "free":false,
+         "publishTime":"2020-08-24T04:24:03.522Z",
+         "contentId":"1591970865131.621",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598241783945.2666-aa054c0aeeee1e8902080b9771420e47optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974550038.5405-b8c328a091a0b44e561d73b7287f83d1.jpeg",
+         "position":196,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 197 ( 13 Mins ) : NUMBER SERIES - PART 1",
+         "opens":2252,
+         "free":false,
+         "publishTime":"2020-08-24T12:50:05.753Z",
+         "contentId":"1591970902385.7551",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598272838423.1184-c9fd54fdc9bb3f06cbd4587fa4d68381optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974576475.2888-ffaad6288ab2dd2bb5ccca5a60798ae2.jpeg",
+         "position":197,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 198 ( 19 Mins ) : NUMBER SERIES - PART 2",
+         "opens":1651,
+         "free":false,
+         "publishTime":"2020-08-24T18:52:20.323Z",
+         "contentId":"1591970947217.105",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598294346368.5776-db943fe7703bea724f23e09daefa06c2optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974608102.122-f80153f77f1552a96b4d70beac617d60.jpeg",
+         "position":198,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 199 ( 17 Mins ) : NUMBER SERIES - PART 3",
+         "opens":1589,
+         "free":false,
+         "publishTime":"2020-08-24T19:07:36.302Z",
+         "contentId":"1591970976192.2878",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598295340335.7358-1d77157762ec3de65888667511a84610optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974633749.5027-83358b591e6c94340c9b6224854e4de9.jpeg",
+         "position":199,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 200 ( 14 Mins ) : NUMBER SERIES - PART 4",
+         "opens":1311,
+         "free":false,
+         "publishTime":"2020-08-24T19:19:43.088Z",
+         "contentId":"1591971006445.0378",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598296224264.7512-90bc2b776736de82b004293e19ff153eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974660335.7146-aae6483fb7a1d14a0fca498806951f6b.jpeg",
+         "position":200,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 201 ( 11 Mins ) : ALPHABET SERIES",
+         "opens":1728,
+         "free":false,
+         "publishTime":"2020-08-25T12:33:13.547Z",
+         "contentId":"1591971415436.0725",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598358321014.8533-62290f84a9f3e478fa45f43e7ecdb296optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974688549.1829-9292400d400ba113a0de7c626ec2d578.jpeg",
+         "position":201,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 202 ( 8 Mins ) : ALPHA NUMERIC SERIES",
+         "opens":1325,
+         "free":false,
+         "publishTime":"2020-08-25T12:40:35.933Z",
+         "contentId":"1591971479268.789",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598358904046.9453-032c3e06079a85144554a820db54aec0optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974752272.221-88b97a2f7213c0cb12d725d195dabbd5.jpeg",
+         "position":202,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 203 ( 12 Mins ) : NUMBER ANALOGY",
+         "opens":1569,
+         "free":false,
+         "publishTime":"2020-08-25T18:24:25.549Z",
+         "contentId":"1591971615059.3967",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598379379560.7834-b7dce50b25000a88000fbbe1b55c5161optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974799964.6064-73bc1e87788b6be8b97b750e96cbbd06.jpeg",
+         "position":203,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 204 ( 8 Mins ) : LETTER ANALOGY",
+         "opens":1222,
+         "free":false,
+         "publishTime":"2020-08-26T08:27:34.561Z",
+         "contentId":"1591971664385.8135",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598429619766.4412-c4be13445c8f33cf9fdb1b6cfb82f4bdoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974851174.6074-6491596bb9ac7f336c4ebe23bb157512.jpeg",
+         "position":204,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 205 ( 6 Mins ) : ALPHA - NUMERIC ANALOGY",
+         "opens":1119,
+         "free":false,
+         "publishTime":"2020-08-26T08:33:44.967Z",
+         "contentId":"1591971702054.482",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598430584103.28-a07837e7af3fb8e67afcd65de2d921c2optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974881473.6636-e91021690672810793805aa2b91bc0b6.jpeg",
+         "position":205,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 206 ( 9 Mins ) : WORD ANALOGY",
+         "opens":1362,
+         "free":false,
+         "publishTime":"2020-08-26T09:31:49.349Z",
+         "contentId":"1591971753276.0476",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598433943096.653-77ff40f45f18c4e1d722abb7a0c3b8d0optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975232422.6252-40e0d092b698e847fbf592cd2007c80d.jpeg",
+         "position":206,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 207 ( 18 Mins ) : CODING & DECODING PART 1",
+         "opens":2310,
+         "free":false,
+         "publishTime":"2020-08-26T13:42:09.417Z",
+         "contentId":"1591971846433.4216",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598448332402.8857-e6e52e9a68141fc900c8b1441e747276optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975265469.5989-6e43c38d5a0c5800c6caafda98655bb6.jpeg",
+         "position":207,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 208 ( 11 Mins ) : CODING & DECODING PART 2",
+         "opens":1633,
+         "free":false,
+         "publishTime":"2020-08-26T17:57:44.025Z",
+         "contentId":"1591971893430.5544",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598462629058.5688-d469d8d0433086fd5b30e443cafc95e1optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975372226.5315-ec0fcb67632c25f66ce34abe86d10e0c.jpeg",
+         "position":208,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 209 ( 7 Mins ) : CODING & DECODING - PART 3",
+         "opens":1337,
+         "free":false,
+         "publishTime":"2020-08-26T18:07:00.072Z",
+         "contentId":"1591971944229.6797",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598464859409.4604-0859717d3068360a7648cc9291ca6b06optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975403588.6882-2dc8d900fc11fd80a8223817acdc8de1.jpeg",
+         "position":209,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 210 ( 16 Mins ) : CODED INEQUALITIES",
+         "opens":2026,
+         "free":false,
+         "publishTime":"2020-08-27T10:27:14.961Z",
+         "contentId":"1591972020373.3267",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598522885534.0403-039689f64ab71dd1fd868b9cc06ee1baoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975463844.0513-8f5a07b859f5efed7bafb46a2a3deff5.jpeg",
+         "position":210,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 211 ( 21 Mins ) : CUBES & COLOURS",
+         "opens":1631,
+         "free":false,
+         "publishTime":"2020-08-27T14:55:30.544Z",
+         "contentId":"1591972057971.351",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598539198441.9744-82a2b9c967fb88a5bedd4021fcbb5e06optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975493158.3154-2c2da27e04dc10fb3447ce82323e73b4.jpeg",
+         "position":211,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 212 ( 8 Mins ) : ODD ONE OUT",
+         "opens":1720,
+         "free":false,
+         "publishTime":"2020-08-27T15:04:23.107Z",
+         "contentId":"1591972119416.0356",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598540265358.4702-bc9e789dcc86bcf2b5a25e03d14f2a87optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975433215.5415-9e7a9ebb1f0754b407a6c57abafe6efb.jpeg",
+         "position":212,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 213 ( 22 Mins ) : DIRECTION SENSE",
+         "opens":2091,
+         "free":false,
+         "publishTime":"2020-08-27T15:23:22.335Z",
+         "contentId":"1591972206044.4426",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598540912604.5916-0a7f1e32bae62e323518a7346451c503optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975327794.334-56b135604b69e71f8c32d6b38c5de67b.jpeg",
+         "position":213,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 214 ( 13 Mins ) : DATA INTERPRETATION - INTRODUCTION",
+         "opens":2268,
+         "free":false,
+         "publishTime":"2020-08-28T14:04:06.698Z",
+         "contentId":"1591972236798.6455",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598622610356.6704-08e7536f1319992d71e65bd37007e54foptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975290731.0854-612fffdbaaba068c0cf97a80d11cff72.jpeg",
+         "position":214,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 215 ( 12 Mins ) : DATA INTERPRETATION - PART 1",
+         "opens":1653,
+         "free":false,
+         "publishTime":"2020-08-28T17:33:41.368Z",
+         "contentId":"1591972274049.3613",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598634539305.4746-e809b3d879a2d8553f1859d060433300optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975200461.6956-a5e0abf572bdb8a5f5370ed51bbd2880.jpeg",
+         "position":215,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 216 ( 14 Mins ) : DATA INTERPRETATION - PART 2",
+         "opens":1534,
+         "free":false,
+         "publishTime":"2020-08-29T12:21:15.214Z",
+         "contentId":"1591972349482.299",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598703041456.9692-243993fd08492686f9c25b02dd4cd9acoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975175704.0818-0f47db6aba7fedcdd8b344d09d73e2c6.jpeg",
+         "position":216,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 217 ( 11 Mins ) : DATA INTERPRETATION - PART 3",
+         "opens":1300,
+         "free":false,
+         "publishTime":"2020-08-29T12:31:16.476Z",
+         "contentId":"1591972391634.238",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598703812964.6384-cc12f464e43576de681dfd9ba79a0f77optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975150757.444-a649e16d6b7518ed79a9424dd64ab9ad.jpeg",
+         "position":217,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 218 ( 9 Mins ) : DATA INTERPRETATION - PART 4",
+         "opens":1193,
+         "free":false,
+         "publishTime":"2020-08-29T12:39:32.510Z",
+         "contentId":"1591972497242.994",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598704411640.4707-362a3e1912d43aa885a6cc70ea50ed8eoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975120174.0112-6810ea0aa6bdb9ad5019f30001f51a43.jpeg",
+         "position":218,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 219 ( 7 Mins ) : DATA INTERPRETATION - PART 5",
+         "opens":1139,
+         "free":false,
+         "publishTime":"2020-08-29T13:27:12.690Z",
+         "contentId":"1591972530341.5369",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598707276415.3037-12f271b4739090d0ef7ae607532b7221optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975093806.3584-e6845a5b32549db222d35b780499cbe1.jpeg",
+         "position":219,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 220 ( 11 Mins ) : DATA INTERPRETATION - PART 6",
+         "opens":1193,
+         "free":false,
+         "publishTime":"2020-08-29T13:35:58.770Z",
+         "contentId":"1591972570516.4734",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598707762043.4983-52b4d2ae14b4f45ed5967882d1307877optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975069390.5874-64382311207ab19eb3b0118d5e6b47dd.jpeg",
+         "position":220,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 221 ( 21 Mins ) : DATA SUFFICIENCY - INTRODUCTION",
+         "opens":1862,
+         "free":false,
+         "publishTime":"2020-08-30T13:20:42.685Z",
+         "contentId":"1591972657696.3071",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598791200199.75-628adb699629a8c576789112c0daf36boptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975043849.247-f280bd4325987a7a552b7ae0174adccd.jpeg",
+         "position":221,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 222 ( 11 Mins ) : DATA SUFFICIENCY - PART 1",
+         "opens":1344,
+         "free":false,
+         "publishTime":"2020-08-30T16:30:10.702Z",
+         "contentId":"1591972713055.1152",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598804524991.6616-5dd2d24df646d65c0e73dd0fddad57feoptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591975020242.6807-7ce477ac1b20755c4619e69a867e04dd.jpeg",
+         "position":222,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 223 ( 16 Mins ) : DATA SUFFICIENCY - PART 2",
+         "opens":1167,
+         "free":false,
+         "publishTime":"2020-08-31T09:39:07.563Z",
+         "contentId":"1591972760450.113",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598865837807.7874-30bce12e8bdc34870dd8264eb875109doptimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974962243.585-1ca7d736d3cc6165a7924e9ac35e1619.jpeg",
+         "position":223,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 224 ( 13 Mins ) : DATA SUFFICIENCY - PART 3",
+         "opens":1201,
+         "free":false,
+         "publishTime":"2020-08-31T14:16:14.117Z",
+         "contentId":"1591972972584.8154",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598882036848.0269-1e0e85e564bcc797defe4745b42102a5optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974933986.4683-bceb198921482dee0b38fb837b87d048.jpeg",
+         "position":224,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      },
+      {
+         "published":true,
+         "bundleId":"1591342863060.7478",
+         "longDescription":"<p></p>",
+         "name":"VIDEO 225 ( 11 Mins ) : DATA SUFFICIENCY - PART 4",
+         "opens":2567,
+         "free":false,
+         "publishTime":"2020-08-31T14:16:41.708Z",
+         "contentId":"1591973006369.6533",
+         "fileUrl":"https://cdn.socionity.com/optimizedvideo/1598882855615.528-6c88e591d69bca835d2bb35342034136optimized.mp4",
+         "description":"by Crisna Chaitanya Reddy",
+         "thumbnail":"https://cdn.socionity.com/1591974908536.4607-97c847fa9f2a9aaf921801fd34e0f4f5.jpeg",
+         "position":225,
+         "tags":[
+            
+         ],
+         "list":"normal",
+         "type":"video"
+      }
+   ]
+}

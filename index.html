@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Create u</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+  <style type="text/css">
+    *{margin: 0;padding: 0;box-sizing: border-box;font-family: 'Josefin Sans', sans-serif;}
+    .heading{margin: 100px 0;text-align: center;}
+    .heading hr{border: 1px solid;width: 150px;}
+    .maindiv{max-width: 200px;max-height: 200px;}
+    .maindiv img{width: 100%;}
+    .maincard .firstdiv{background-image: url(https://image.freepik.com/free-vector/students-classroom-flat-vector-illustration_74855-6663.jpg);background-size: 70% 100%;background-repeat: no-repeat;height: 200px;}
+    .outerdiv{display: flex;justify-content: start;align-items: flex-start;}
+    .desc{margin: 10px 20px;}
+    .maincard .card{margin: 10px 0;}
+
+    @media(max-width: 768px)
+    {
+      .heading{margin: 50px 0;}
+      .heading h2{font-size: 1.5rem;}
+      .maincard .firstdiv{height: 130px;}
+      .maindiv{max-width: 100px}
+      .desc{margin: 0 5px;}
+      .desc h5{font-size: 0.9rem;}
+    }
+  </style>
+</head>
+<body> 
+ 
+<div class="container">
+  <div class="heading">
+    <h2>Apptidtude Series</h2>
+    <hr class="m-auto">
+  </div>
+  
+  <div class="col-xl-10 m-auto">
+    <div class="maincard">
+    <div class="card firstdiv">
+    <div class="card-body outerdiv">
+      <div class="maindiv">
+
+      </div>
+      <div class="desc">
+        
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  
+
+  fetch('sdata.json').then( (apidata)=> {   //console.log(apidata);
+    return apidata.json();
+  }).then((actualdata) => {
+    for(var i=0;i<226;i++)
+    {
+      $(".maincard").append('<div class="card"><div class="card-body outerdiv"><div class="maindiv"><img src="'+actualdata.contents[i].thumbnail+'" /></div><div class="desc"><h5>'+actualdata.contents[i].name+'</h5><a href="'+actualdata.contents[i].fileUrl+'" class="btn btn-success" target="_blank">Play</a></div></div></div>');
+
+    }
+    //console.log(actualdata.contents[0].fileUrl);
+  }).catch((error) => {
+    console.log(`The error ${error}`);
+  })
+</script>
+
+</body>
+</html>
